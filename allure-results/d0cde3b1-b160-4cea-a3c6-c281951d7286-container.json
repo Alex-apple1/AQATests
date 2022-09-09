@@ -1,0 +1,1 @@
+{"uuid":"d0cde3b1-b160-4cea-a3c6-c281951d7286","name":"task1.tests.GoogleSearchTest","children":["92594aff-a99f-49d1-90d4-44d133e9f594"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1662635008133,"stop":1662635008148}],"afters":[],"links":[],"start":1662635008052,"stop":1662635021994}
